@@ -46,7 +46,7 @@ const BlogPage = () => {
                 </div>
             </div>
             <div class="blog">
-            <img src="./src/img/projects/img9.jpg" alt="Lỗi ảnh">
+            <img src="https://github.com/Banhradedutvo/ASM_GD1_WEB501/blob/main/src/img/projects/img6.jpg?raw=true" alt="Lỗi ảnh">
                 <div class="blog-text">
                     <h4>
                         Debbuging made easy with Web Inspector
@@ -58,7 +58,7 @@ const BlogPage = () => {
                 </div>
             </div>
             <div class="blog">
-            <img src="./src/img/projects/img1.jpg" alt="Lỗi ảnh">
+            <img src="https://github.com/Banhradedutvo/ASM_GD1_WEB501/blob/main/src/img/projects/img1.jpg?raw=true" alt="Lỗi ảnh">
                 <div class="blog-text">
                     <h4>
                         Get started with Web Design and UI Design
@@ -70,7 +70,7 @@ const BlogPage = () => {
                 </div>
             </div>
             <div class="blog">
-            <img src="./src/img/projects/img1.jpg" alt="Lỗi ảnh">
+            <img src="https://github.com/Banhradedutvo/ASM_GD1_WEB501/blob/main/src/img/projects/img2.jpg?raw=true" alt="Lỗi ảnh">
                 <div class="blog-text">
                     <h4>
                         This is what you need to know about Web Design
