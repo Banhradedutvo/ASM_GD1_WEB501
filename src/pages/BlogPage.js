@@ -10,7 +10,7 @@ const BlogPage = () => {
         </div>
         <div class="blogs">
             <div class="blog">
-            <img src="./src/img/projects/img7.jpg" alt="Lỗi ảnh">
+            <img src="https://github.com/Banhradedutvo/ASM_GD1_WEB501/blob/main/src/img/projects/img8.jpg?raw=true" alt="Lỗi ảnh">
                 <div class="blog-text">
                     <h4>
                         How to Create Your Own Website
@@ -22,7 +22,7 @@ const BlogPage = () => {
                 </div>
             </div>
             <div class="blog">
-            <img src="./src/img/projects/img4.jpg" alt="Lỗi ảnh">
+            <img src="https://github.com/Banhradedutvo/ASM_GD1_WEB501/blob/main/src/img/projects/img9.jpg?raw=true" alt="Lỗi ảnh">
                 <div class="blog-text">
                     <h4>
                         How to Become an Expert in Web Design
@@ -34,7 +34,7 @@ const BlogPage = () => {
                 </div>
             </div>
             <div class="blog">
-            <img src="./src/img/projects/img8.jpg" alt="Lỗi ảnh">
+            <img src="https://github.com/Banhradedutvo/ASM_GD1_WEB501/blob/main/src/img/projects/img4.jpg?raw=true" alt="Lỗi ảnh">
                 <div class="blog-text">
                     <h4>
                         Become a Web Designer in 10 Days

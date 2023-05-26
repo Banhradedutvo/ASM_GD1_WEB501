@@ -10,7 +10,7 @@ const HomePage = () => {
       <div class="left-header">
           <div class="h-shape"></div>
           <div class="image">
-              <img src="./src/img/projects/anh1.jpg" alt="Lỗi ảnh">
+              <img src="https://github.com/Banhradedutvo/ASM_GD1_WEB501/blob/main/src/img/projects/anh1.jpg?raw=true" alt="Lỗi ảnh">
           </div>
       </div>
       <div class="right-header">

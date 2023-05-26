@@ -120,7 +120,7 @@ const AboutPage = () => {
               <i class="fas fa-briefcase"></i>
           </div>
           <p class="tl-duration">2022 - present</p>
-          <h5>Web Developer<span> -  FPT polytechnich</span></h5>
+          <h5>Web Developer<span> -  FPT polytechnic</span></h5>
           <p>
               Lorem ipsum dolor sit amet consectetur adipisicing elit. Saepe quasi vero fugit.
           </p>
@@ -140,7 +140,7 @@ const AboutPage = () => {
               <i class="fas fa-briefcase"></i>
           </div>
           <p class="tl-duration">2023-2024</p>
-          <h5>C++ Programmer<span> -  FPT polytechnich</span></h5>
+          <h5>C++ Programmer<span> -  FPT polytechnic</span></h5>
           <p>
               Lorem ipsum dolor sit amet consectetur adipisicing elit. Saepe quasi vero fugit.
           </p>
@@ -150,7 +150,7 @@ const AboutPage = () => {
               <i class="fas fa-briefcase"></i>
           </div>
           <p class="tl-duration">2022-2023</p>
-          <h5>Business Degree<span> -  FPT polytechnich</span></h5>
+          <h5>Business Degree<span> -  FPT polytechnic</span></h5>
           <p>
               Lorem ipsum dolor sit amet consectetur adipisicing elit. Saepe quasi vero fugit.
           </p>
@@ -160,7 +160,7 @@ const AboutPage = () => {
               <i class="fas fa-briefcase"></i>
           </div>
           <p class="tl-duration">2022-2023</p>
-          <h5>Computer Science Degree<span> -  FPT polytechnich</span></h5>
+          <h5>Computer Science Degree<span> -  FPT polytechnic</span></h5>
           <p>
               Lorem ipsum dolor sit amet consectetur adipisicing elit. Saepe quasi vero fugit.
           </p>
@@ -170,7 +170,7 @@ const AboutPage = () => {
               <i class="fas fa-briefcase"></i>
           </div>
           <p class="tl-duration">2022 - present</p>
-          <h5>3d Animation<span> - FPT polytechnich</span></h5>
+          <h5>3d Animation<span> - FPT polytechnic</span></h5>
           <p>
               Lorem ipsum dolor sit amet consectetur adipisicing elit. Saepe quasi vero fugit.
           </p>

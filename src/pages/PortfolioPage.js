@@ -14,7 +14,7 @@ const PortfolioPage = () => {
     <div class="portfolios">
         <div class="portfolio-item">
             <div class="image">
-                <img src="./src/img/projects/img1.jpg" alt="Lỗi ảnh">
+                <img src="https://github.com/Banhradedutvo/ASM_GD1_WEB501/blob/main/src/img/projects/img1.jpg?raw=true" alt="Lỗi ảnh">
             </div>
             <div class="hover-items">
                 <h3>Project Source</h3>
@@ -33,7 +33,7 @@ const PortfolioPage = () => {
         </div>
         <div class="portfolio-item">
             <div class="image">
-            <img src="./src/img/projects/img2.jpg" alt="Lỗi ảnh">
+            <img src="https://github.com/Banhradedutvo/ASM_GD1_WEB501/blob/main/src/img/projects/img2.jpg?raw=true" alt="Lỗi ảnh">
             </div>
             <div class="hover-items">
                 <h3>Project Source</h3>
@@ -52,7 +52,7 @@ const PortfolioPage = () => {
         </div>
         <div class="portfolio-item">
             <div class="image">
-            <img src="./src/img/projects/img3.jpg" alt="Lỗi ảnh">
+            <img src="https://github.com/Banhradedutvo/ASM_GD1_WEB501/blob/main/src/img/projects/img3.jpg?raw=true" alt="Lỗi ảnh">
             </div>
             <div class="hover-items">
                 <h3>Project Source</h3>
@@ -71,7 +71,7 @@ const PortfolioPage = () => {
         </div>
         <div class="portfolio-item">
             <div class="image">
-            <img src="./src/img/projects/img4.jpg" alt="Lỗi ảnh">
+            <img src="https://github.com/Banhradedutvo/ASM_GD1_WEB501/blob/main/src/img/projects/img4.jpg?raw=true" alt="Lỗi ảnh">
             </div>
             <div class="hover-items">
                 <h3>Project Source</h3>
@@ -90,7 +90,7 @@ const PortfolioPage = () => {
         </div>
         <div class="portfolio-item">
             <div class="image">
-            <img src="./src/img/projects/img5.jpg" alt="Lỗi ảnh">
+            <img src="https://github.com/Banhradedutvo/ASM_GD1_WEB501/blob/main/src/img/projects/img5.jpg?raw=true" alt="Lỗi ảnh">
             </div>
             <div class="hover-items">
                 <h3>Project Source</h3>
@@ -109,7 +109,7 @@ const PortfolioPage = () => {
         </div>
         <div class="portfolio-item">
             <div class="image">
-            <img src="./src/img/projects/img6.jpg" alt="Lỗi ảnh">
+            <img src="https://github.com/Banhradedutvo/ASM_GD1_WEB501/blob/main/src/img/projects/img6.jpg?raw=true" alt="Lỗi ảnh">
             </div>
             <div class="hover-items">
                 <h3>Project Source</h3>
@@ -128,7 +128,7 @@ const PortfolioPage = () => {
         </div>
         <div class="portfolio-item">
             <div class="image">
-            <img src="./src/img/projects/img7.jpg" alt="Lỗi ảnh">
+            <img src="https://github.com/Banhradedutvo/ASM_GD1_WEB501/blob/main/src/img/projects/img7.jpg?raw=true" alt="Lỗi ảnh">
             </div>
             <div class="hover-items">
                 <h3>Project Source</h3>
